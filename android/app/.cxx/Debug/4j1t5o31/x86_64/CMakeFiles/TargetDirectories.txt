@@ -1,0 +1,2 @@
+C:/Users/obcor/code/app2/android/app/.cxx/Debug/4j1t5o31/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/obcor/code/app2/android/app/.cxx/Debug/4j1t5o31/x86_64/CMakeFiles/rebuild_cache.dir
